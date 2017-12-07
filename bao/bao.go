@@ -1,2 +1,6 @@
+package bao
 
-111pull
+func p(){
+  print("test")
+}
+
