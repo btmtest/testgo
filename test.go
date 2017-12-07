@@ -9,5 +9,5 @@
 package main
 
 func main() {
-	print("hello11122, world\n")
+	print("hello123, world\n")
 }
