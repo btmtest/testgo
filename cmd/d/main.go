@@ -3,7 +3,7 @@ package main
 
 import (
 	
-    "github.com/btmtest/testgo/hello"
+    "github.com/btmtest/testgo/cmd/hello"
 )
 
 func main() {
